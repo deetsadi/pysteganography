@@ -1,0 +1,21 @@
+Metadata-Version: 2.1
+Name: pysteganography
+Version: 0.1.0
+Summary: PySteganography - A simple toolset for image encoding and decoding using steganography.
+Home-page: UNKNOWN
+Author: deetsadi (Aditya Sridhar)
+Author-email: <deetsadi@gmail.com>
+License: UNKNOWN
+Download-URL: https://github.com/deetsadi/pysteganography/archive/refs/tags/v_01.tar.gz
+Description: A package that provides developers the necessary functions to implement steganography in image files through the least significant bit (LSB) technique.
+        View examples and features on github: https://github.com/deetsadi/pysteganography
+Keywords: python,steganography,cybersecurity,images,sound,security
+Platform: UNKNOWN
+Classifier: Development Status :: 1 - Planning
+Classifier: Intended Audience :: Developers
+Classifier: Programming Language :: Python :: 3
+Classifier: Operating System :: Unix
+Classifier: Operating System :: MacOS :: MacOS X
+Classifier: Operating System :: Microsoft :: Windows
+Requires-Python: >=3.6
+Description-Content-Type: text/markdown
